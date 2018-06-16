@@ -1,1 +1,4 @@
 # hello-world
+this is my FIRST REPOSITORY...
+
+WISH I HAVE A GREAT EXPERIENCE IN GITHUB..!!
